@@ -1,0 +1,41 @@
+2023-01-23 22:58:52,362  INFO [main] TestBase:20 - Inside constructor of LoginPageTest
+2023-01-23 22:58:52,534  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-23 23:00:47,844  INFO [main] TestBase:20 - Inside constructor of LoginPageTest
+2023-01-23 23:00:48,027  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 10:36:58,531  INFO [main] TestBase:20 - Inside constructor of LoginPageTest
+2023-01-24 10:36:58,750  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 10:40:50,169  INFO [main] TestBase:20 - Inside constructor of LoginPageTest
+2023-01-24 10:40:50,327  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 10:46:19,718  INFO [main] TestBase:20 - Inside constructor of LoginPageTest
+2023-01-24 10:46:19,890  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 10:48:06,881  INFO [main] LoginPage:35 - Inside Login Page validate title
+2023-01-24 10:55:12,741  INFO [main] TestBase:20 - Inside constructor of LoginPageTest
+2023-01-24 10:55:12,932  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 10:55:26,110  INFO [main] LoginPage:35 - Inside Login Page validate title
+2023-01-24 10:55:26,321  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 11:11:49,112  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 11:13:55,736  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 11:20:23,064  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 11:20:23,280  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 11:21:17,982  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 11:28:16,731  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 11:28:36,294  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 11:29:02,701  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 11:29:28,855  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 11:29:53,616  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 11:41:49,892  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 11:54:42,142  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 11:55:40,990  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 11:57:17,638  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 12:00:05,338  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 12:14:09,464  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-24 12:14:39,258  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-28 18:08:01,024  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-28 18:24:24,252  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-28 18:26:00,938  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-28 18:27:28,477  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-28 18:28:22,174  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-28 18:35:53,341  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-28 18:36:50,952  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-28 18:37:26,831  INFO [main] TestBase:40 - Inside Test Initialization of Base class
+2023-01-28 18:38:03,389  INFO [main] TestBase:40 - Inside Test Initialization of Base class
